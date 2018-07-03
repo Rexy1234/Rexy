@@ -23,6 +23,7 @@ public class Newtest2 {
 		Assert.assertEquals(title,"GitHub");
 		
 		System.out.println("Continue with test code....");
+		System.out.println("WELCOME");
 	}
 
 }
